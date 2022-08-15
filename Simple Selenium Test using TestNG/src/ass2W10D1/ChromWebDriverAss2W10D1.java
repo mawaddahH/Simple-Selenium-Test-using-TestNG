@@ -72,8 +72,6 @@ public class ChromWebDriverAss2W10D1 {
 		
 		Thread.sleep(3000);
 
-		
-
 	}
 
 	/**
